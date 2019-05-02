@@ -2238,3 +2238,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.02-04.01.44:706][336]LogSavePackage: Moving 'C:/Users/USUARIO/Desktop/Pt_Unreal/TK_tnak/Saved/Nivel01F3CD260540C8883C3997108496993E35.tmp' to 'C:/Users/USUARIO/Desktop/Pt_Unreal/TK_tnak/Content/Niveles/Nivel01.umap'
 [2019.05.02-04.02.30:227][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/Enemy" FILE="C:/Users/USUARIO/Desktop/Pt_Unreal/TK_tnak/Content/blueprints/Enemy.uasset" SILENT=true
 [2019.05.02-04.02.30:294][706]LogSavePackage: Moving 'C:/Users/USUARIO/Desktop/Pt_Unreal/TK_tnak/Saved/Enemy7ED3A736492FBAE3C71207AC45500534.tmp' to 'C:/Users/USUARIO/Desktop/Pt_Unreal/TK_tnak/Content/blueprints/Enemy.uasset'
+[2019.05.02-04.03.33:575][621]SourceControl: fatal: D:/Games/UE_4.22/Engine/Content: 'D:/Games/UE_4.22/Engine/Content' is outside repository
+[2019.05.02-04.03.35:188][621]EditorErrors: Warning: No assets to check in!
